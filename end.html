@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Terminé</title>
+    <link rel="stylesheet" href="Style/style.css">
+    <link rel="stylesheet" href="Style/game.css">
+    <link rel="stylesheet" href="Style/end.css">
+</head>
+
+<body>
+    <div class="container">
+        <div id="end" class="flex-center flex-column">
+            <h1 id="finalScore">Score final : 0</h1> <!-- Ici ton score sera affiché -->
+            <form id="saveScoreForm">
+                <input type="text" id="username" placeholder="Entrez votre nom" required>
+                <button id="SaveScoreBtn" disabled>Enregistrer le score</button>
+            </form>
+        </div>
+    </div>
+
+    <script src="JS/end.js" defer></script> <!-- Le script end.js -->
+</body>
+
+</html>

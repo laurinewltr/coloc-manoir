@@ -1,0 +1,51 @@
+[
+    {
+        "question": "Avant de devenir une colocation, à quoi servait le manoir ?",
+        "choice1": "Une maison de retraite pour personnes âgées",
+        "choice2": "Un manoir mystérieusement hanté par des esprits",
+        "choice3": "Une immense maison tenue par une grande famille",
+        "answer": 1
+    },
+    {
+        "question": "Combien de chambres se cachent derrière les portes du manoir ?",
+        "choice1": "24 chambres",
+        "choice2": "20 chambres",
+        "choice3": "26 chambres",
+        "answer": 3
+    },
+    {
+        "question": "Quand ce manoir imposant a-t-il vu le jour ?",
+        "choice1": "En 1960",
+        "choice2": "En 1987",
+        "choice3": "En 1910",
+        "answer": 2
+    },
+    {
+        "question": "Quelle année a marqué la fermeture du manoir ?",
+        "choice1": "En 2021",
+        "choice2": "En 2022",
+        "choice3": "En 2024",
+        "answer": 3
+    },
+    {
+        "question": "Pourquoi ce manoir emblématique a-t-il fermé ses portes ?",
+        "choice1": "À cause de rumeurs inquiétantes de phénomènes paranormaux qui s’y produisaient",
+        "choice2": "À cause de problèmes financiers qui ont affecté la gestion du lieu",
+        "choice3": "En raison d’une histoire de maltraitance d’un résident, choquant tout le monde",
+        "answer": 2
+    },
+    {
+        "question": "Qui a été le propriétaire de ce manoir avant sa transformation ?",
+        "choice1": "Mathieu Gagnon",
+        "choice2": "Éloïse Tremblay",
+        "choice3": "David Arseneau",
+        "answer": 3
+    },
+    {
+        "question": "Quel était le nom du bâtiment avant de devenir une colocation ?",
+        "choice1": "Le Manoir de la Sérénité de Chicoutimi",
+        "choice2": "Le Manoir Champlain de Chicoutimi",
+        "choice3": "Manoir Notre-Dame-De-Grâce",
+        "answer": 1
+    }
+]
